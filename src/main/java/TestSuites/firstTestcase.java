@@ -23,7 +23,8 @@ public class firstTestcase {
 		System.out.println(actual_title);
 		System.out.println(url_store);
 		System.out.println("Tests are Passed");
-		System.out.println("New Line Added");
+		System.out.println("sreejith added new line");
+	
 		driver.manage().window().maximize();
 		//driver.close();
 		
